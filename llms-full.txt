@@ -1,0 +1,45 @@
+# Geotechnical Engineering — Trois-Rivieres
+
+> Geotechnical engineering services in Trois-Rivieres, Canada.
+
+## Services
+- [Anchors](https://trois-rivieres.geotechnical-engineering.org/anchors/)
+- [Atterberg Limits](https://trois-rivieres.geotechnical-engineering.org/atterberg-limits/)
+- [Cbr Road](https://trois-rivieres.geotechnical-engineering.org/cbr-road/)
+- [Cpt Test](https://trois-rivieres.geotechnical-engineering.org/cpt-test/)
+- [Excavation Monitoring](https://trois-rivieres.geotechnical-engineering.org/excavation-monitoring/)
+- [Excavations](https://trois-rivieres.geotechnical-engineering.org/excavations/)
+- [Flexible Pavement](https://trois-rivieres.geotechnical-engineering.org/flexible-pavement/)
+- [Footings](https://trois-rivieres.geotechnical-engineering.org/footings/)
+- [Foundations](https://trois-rivieres.geotechnical-engineering.org/foundations/)
+- [Geophysics](https://trois-rivieres.geotechnical-engineering.org/geophysics/)
+- [Grain Size](https://trois-rivieres.geotechnical-engineering.org/grain-size/)
+- [Ground Improvement](https://trois-rivieres.geotechnical-engineering.org/ground-improvement/)
+- [Grouting](https://trois-rivieres.geotechnical-engineering.org/grouting/)
+- [In Situ Permeability](https://trois-rivieres.geotechnical-engineering.org/in-situ-permeability/)
+- [Investigation](https://trois-rivieres.geotechnical-engineering.org/investigation/)
+- [Lab In Situ](https://trois-rivieres.geotechnical-engineering.org/lab-in-situ/)
+- [Laboratory](https://trois-rivieres.geotechnical-engineering.org/laboratory/)
+- [Liquefaction](https://trois-rivieres.geotechnical-engineering.org/liquefaction/)
+- [Masw](https://trois-rivieres.geotechnical-engineering.org/masw/)
+- [Piles](https://trois-rivieres.geotechnical-engineering.org/piles/)
+- [Resistivity](https://trois-rivieres.geotechnical-engineering.org/resistivity/)
+- [Retaining Walls](https://trois-rivieres.geotechnical-engineering.org/retaining-walls/)
+- [Road Geotechnics](https://trois-rivieres.geotechnical-engineering.org/road-geotechnics/)
+- [Sand Cone Density](https://trois-rivieres.geotechnical-engineering.org/sand-cone-density/)
+- [Seismic](https://trois-rivieres.geotechnical-engineering.org/seismic/)
+- [Seismic Microzonation](https://trois-rivieres.geotechnical-engineering.org/seismic-microzonation/)
+- [Seismic Refraction](https://trois-rivieres.geotechnical-engineering.org/seismic-refraction/)
+- [Slope Stability](https://trois-rivieres.geotechnical-engineering.org/slope-stability/)
+- [Slopes](https://trois-rivieres.geotechnical-engineering.org/slopes/)
+- [Stone Columns](https://trois-rivieres.geotechnical-engineering.org/stone-columns/)
+- [Test Pits](https://trois-rivieres.geotechnical-engineering.org/test-pits/)
+- [Triaxial](https://trois-rivieres.geotechnical-engineering.org/triaxial/)
+- [Vibrocompaction](https://trois-rivieres.geotechnical-engineering.org/vibrocompaction/)
+
+## Contact
+- Website: https://trois-rivieres.geotechnical-engineering.org/
+
+## About
+This site provides geotechnical engineering services in Trois-Rivieres, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
